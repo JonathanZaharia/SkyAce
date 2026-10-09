@@ -4,7 +4,7 @@ A side-scrolling dogfight shooter built in Processing (Java mode). Survive endle
 
 Solo student project, Georgia Gwinnett College.
 
-![Sky Ace gameplay](gameplay.png)
+![Sky Ace gameplay](SkyAce/gameplay.png)
 
 ## How to play
 
