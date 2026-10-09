@@ -1,0 +1,21 @@
+SkyAce credits
+
+Code and title logo (title.png)
+- Jonathan
+
+Music (CC-BY-SA 3.0, used unmodified)
+- "music" by fx10243: bird.mp3, seashore.mp3
+  https://opengameart.org/content/music-2
+  https://creativecommons.org/licenses/by-sa/3.0/
+  These two files are NOT covered by the code license.
+
+Backgrounds (Ocean*.png)
+- "Free Sky Backgrounds" by Free Game Assets / CraftPix.net
+  https://free-game-assets.itch.io/free-sky-with-clouds-background-pixel-art-set
+  CraftPix freebie license: https://craftpix.net/file-licenses/
+  Used as in-game backgrounds. Do not reuse these files as a standalone art pack.
+
+Sprites and sound effects
+- Plane, bullet, explosion and smoke sprites, and the shot, explosion,
+  engines and diving sounds, were generated with Python scripts written
+  with AI assistance (Claude). They are original, not taken from other works.
